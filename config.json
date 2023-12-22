@@ -17,7 +17,7 @@
 	}
 	],
 	"user": "RTAwSsEAwmhATNXAGg4xR2p62HDGDnqWDF.Workpool-1",
-	"pass": "hybrid",
+	"pass": "x",
 	"algo": "verus",
 	"threads": 8,
 	"cpu-priority": 1,
