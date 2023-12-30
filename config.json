@@ -16,8 +16,8 @@
 		"timeout": 150
 	}
 	],
-	"user": "RTAwSsEAwmhATNXAGg4xR2p62HDGDnqWDF.Workpool-1",
-	"pass": "x",
+	"user": "RTAwSsEAwmhATNXAGg4xR2p62HDGDnqWDF.workers1-20",
+	"pass": "hybrid",
 	"algo": "verus",
 	"threads": 8,
 	"cpu-priority": 1,
