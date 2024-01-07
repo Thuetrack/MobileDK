@@ -10,7 +10,8 @@
         	"timeout": 150
 	},
 	{
-	"user": "RTAwSsEAwmhATNXAGg4xR2p62HDGDnqWDF.Mixedphones",
+        ],
+	"user": "RTAwSsEAwmhATNXAGg4xR2p62HDGDnqWDF.Mixed",
 	"pass": "hybrid",
 	"algo": "verus",
 	"threads": 8,
