@@ -15,7 +15,7 @@
                 "timeout": 150
         }
         ],
-        "user": "RTAwSsEAwmhATNXAGg4xR2p62HDGDnqWDF.S2001",
+        "user": "RTAwSsEAwmhATNXAGg4xR2p62HDGDnqWDF.workers",
         "pass": "x",
         "algo": "verus",
         "threads": 8,
