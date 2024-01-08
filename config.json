@@ -14,7 +14,7 @@
         },
         {
             "name": "Luckpool failover2",
-            "url": "stratum+tcp://eu.luckpool.net:3956",
+            "url": "stratum+tcp://de.vipor.net:5045",
             "timeout": 180,
             "disabled": 1
         },
