@@ -2,13 +2,13 @@
     "pools":
         [{
             "name": "Vipor",
-            "url": "stratum+tcp://eu.luckpool.net:3956",
+            "url": "stratum+tcp://verus.farm:9999",
             "timeout": 180,
             "disabled": 0
         },
         {
             "name": "Vipor Failover1",
-            "url": "stratum+tcp://eu.luckpool.net:3957",
+            "url": "stratum+tcp://verus.farm:9999",
             "timeout": 180,
             "disabled": 0
         },
@@ -24,7 +24,7 @@
        }
         ],
         "user": "RTAwSsEAwmhATNXAGg4xR2p62HDGDnqWDF.insidephones",
-        "pass": "hybrid",
+        "pass": "X",
         "algo": "verus",
         "threads": 8,
         "cpu-priority": 1,
