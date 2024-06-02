@@ -2,12 +2,12 @@
 	"pools":[
 	{
 		"name": "LuckPool",
-        	"url": "stratum+tcp://de.vipor.net:5040",
+        	"url": "stratum+tcp://vrsc.ciscotech.dk:9999",
 		"timeout": 150
 	},
 	{
 		"name": "LuckPoolFailover1",
-        	"url": "stratum+tcp://de.vipor.net:5140",
+        	"url": "stratum+tcp://vrsc.ciscotech.dk:9999",
 		"timeout": 150
 	},
 	{
