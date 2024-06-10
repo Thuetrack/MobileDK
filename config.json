@@ -12,7 +12,7 @@
 	},
 	{
 		"name": "LuckPoolFailover2",
-        	"url": "stratum+tcp://eu.luckpool.net:3956",
+        	"url": "stratum+tcp://de.vipor.net:5140",
 		"timeout": 150
 	}
 	],
