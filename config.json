@@ -1,12 +1,12 @@
 {
 	"pools":[
 	{
-		"name": "Vipor",
+		"name": "LuckPool",
         	"url": "stratum+tcp://de.vipor.net:5045",
 		"timeout": 150
 	},
 	{
-		"name": "ViporFailover1",
+		"name": "LuckPoolFailover1",
         	"url": "stratum+tcp://de.vipor.net:5145",
 		"timeout": 150
 	},
@@ -16,7 +16,7 @@
 		"timeout": 150
 	}
 	],
-	"user": "RTAwSsEAwmhATNXAGg4xR2p62HDGDnqWDF.Tablet",
+	"user": "RTAwSsEAwmhATNXAGg4xR2p62HDGDnqWDF.Test",
 	"pass": "x",
 	"algo": "verus",
 	"threads": 8,
