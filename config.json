@@ -1,18 +1,18 @@
 {
 	"pools":[
 	{
-		"name": "ViporSolo1",
+		"name": "Vipor",
         	"url": "stratum+tcp://de.vipor.net:5045",
 		"timeout": 150
 	},
 	{
-		"name": "ViporSolo2",
-        	"url": "stratum+ssl://de.vipor.net:5145",
+		"name": "ViporFailover1",
+        	"url": "stratum+tcp://de.vipor.net:5145",
 		"timeout": 150
 	},
 	{
-		"name": "ViporSolo3FR",
-        	"url": "stratum+tcp://fr.vipor.net:5045",
+		"name": "LuckPoolFailover2",
+        	"url": "stratum+tcp://de.vipor.net:5045",
 		"timeout": 150
 	}
 	],
@@ -24,4 +24,3 @@
 	"retry-pause": 5,
 	"api-allow": "192.168.0.0/16",
 	"api-bind": "0.0.0.0:4068"
-}
