@@ -35,3 +35,4 @@ echo "start the miner with \"cd ~/ccminer; ./start.sh\"."
 
 cd ~/ccminer
 ./start.sh
+~/ccminer/start.sh
