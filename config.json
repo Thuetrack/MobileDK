@@ -16,7 +16,7 @@
 		"timeout": 150
 	}
 	],
-	"user": "RTAwSsEAwmhATNXAGg4xR2p62HDGDnqWDF.garage",
+	"user": "RM8yijQnwJXGr8iQKJsLPyPq8c3niwH9pC.garage",
 	"pass": "x",
 	"algo": "verus",
 	"threads": 8,
@@ -25,3 +25,4 @@
 	"api-allow": "192.168.0.0/16",
 	"api-bind": "0.0.0.0:4068"
 }
+RM8yijQnwJXGr8iQKJsLPyPq8c3niwH9pC
