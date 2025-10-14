@@ -2,7 +2,7 @@
 	"pools":[
 	{
 		"name": "Vipor",
-        	"url": "stratum+tcp://de.vipor.net:5040",
+        	"url": "stratum+ssl://de.vipor.net:5140",
 		"timeout": 150
 	},
 	{
@@ -16,7 +16,7 @@
 		"timeout": 150
 	}
 	],
-	"user": "RM8yijQnwJXGr8iQKJsLPyPq8c3niwH9pC.garage",
+	"user": "RYARQVBb5f2zEwRqW5L25Rxc76Ms5HrkvP.garage",
 	"pass": "x",
 	"algo": "verus",
 	"threads": 8,
