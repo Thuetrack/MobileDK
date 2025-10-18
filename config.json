@@ -7,16 +7,16 @@
 	},
 	{
 		"name": "ViporFailover1",
-        	"url": "stratum+tcp://de.vipor.net:5145",
+        	"url": "stratum+ssl://de.vipor.net:5145",
 		"timeout": 150
 	},
 	{
 		"name": "LuckPoolFailover2",
-        	"url": "stratum+ssl://de.vipor.net:5145",
+        	"url": "stratum+ssl://de.vipor.net:5045",
 		"timeout": 150
 	}
 	],
-	"user": "RDxSmw3Mgt92vUsGZMgWJpLuY5YUEDPfBA.Row 1 solo",
+	"user": "RDxSmw3Mgt92vUsGZMgWJpLuY5YUEDPfBA.Row1",
 	"pass": "x",
 	"algo": "verus",
 	"threads": 8,
