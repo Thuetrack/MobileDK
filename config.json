@@ -2,7 +2,7 @@
 	"pools":[
 	{
 		"name": "Vipor",
-        	"url": "stratum+tcp://de.vipor.net:5045",
+        	"url": "stratum+tcp://de.vipor.net:5145",
 		"timeout": 150
 	},
 	{
@@ -12,7 +12,7 @@
 	},
 	{
 		"name": "LuckPoolFailover2",
-        	"url": "stratum+ssl://de.vipor.net:5045",
+        	"url": "stratum+ssl://de.vipor.net:5145",
 		"timeout": 150
 	}
 	],
